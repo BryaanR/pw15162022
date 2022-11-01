@@ -1,0 +1,53 @@
+body{
+    font-size: 16px;
+    margin: 0px auto;
+    /* Recomendacion del cliente */
+    max-width: 1078px;
+    min-width: 1078px;
+
+}
+header{
+    text-align: center;
+    background:  #245d92;
+}
+header nav{
+    text-align: right;
+    background: #efefef;
+
+
+}
+
+/* IDs */
+
+/*seccion 01*/
+
+#seccion01articulo01{
+    background: #1e4d79;
+    font-size: 15px;
+    margin-right: 79%;
+}
+#seccion01articulo01 nav ul{
+    list-style: none;
+    color: white;
+}
+#seccion01articulo01 nav ul li{
+    background: #1e4d79;
+
+}
+
+#seccion01articulo02 nav{
+    background: #245d92;
+    color: white;
+    margin-right: 79%;
+}
+
+/*seccion 02*/
+
+#seccion02{
+
+
+}
+
+
+
+
